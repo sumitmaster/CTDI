@@ -1,0 +1,13 @@
+Steps for installation:-
+
+This is a zipped folder in which two folders are their 
+
+1. Angular : For Angular, We need to type following command in Visual Studio Code
+
+npm install
+
+After complete this operation then run application
+
+ng serve --o
+
+2.Web Api: This folder contain Web Api
