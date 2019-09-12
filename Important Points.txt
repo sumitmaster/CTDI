@@ -11,3 +11,6 @@ After complete this operation then run application
 ng serve --o
 
 2.Web Api: This folder contain Web Api
+
+
+3. We have test data in JSON file in Web API project(Folder named App_Data\). For 11-09-2019 to 13-09-2019 dates.
